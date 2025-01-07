@@ -7,7 +7,11 @@
 		"vscode": {
 			"extensions": [
 				"Github.copilot"
-			]
+			],
+			
+			"settings": {
+				"locale": "en-US"
+			}
 		}		
 	}
 
